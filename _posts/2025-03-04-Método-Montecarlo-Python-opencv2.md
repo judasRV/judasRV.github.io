@@ -5,7 +5,7 @@ categories: [python, algoritmos]
 tags: [Python, Algoritmos, Visualización]
 ---
 
-## Introducción
+## Primeros pasos
 En esta entrada, mostraremos cómo realizar un Monte Carlo para aproximar y visualizar los resultados en un gráfico.
 
 ## Algoritmo
