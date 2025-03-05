@@ -65,7 +65,6 @@ n = 500  # Tamaño de la imagen (500x500)
 k = 10000   # Número de puntos aleatorios
 
 estimar_pi_montecarlo(n, k)
-
 ```
 
 ## Figura Resultante
