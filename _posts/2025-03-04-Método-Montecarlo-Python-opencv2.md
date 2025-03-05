@@ -8,7 +8,7 @@ tags: [Python, Algoritmos, Visualización]
 ## Introducción
 En esta entrada, mostraremos cómo realizar un Monte Carlo para aproximar y visualizar los resultados en un gráfico.
 
-## Consulta SQL
+## Algoritmo
 A continuación, presentamos una consulta SQL simple para contar la cantidad de empleados por departamento en una base de datos empresarial.
 
 ## Visualización del Resultado
@@ -74,5 +74,4 @@ A continuación, una imagen que representa la distribución de empleados por dep
 ![Resultado Gráfico](img/monte_carlo_python_opencv.png)
 
 ## Conclusión
-Este ejemplo muestra cómo podemos aproximar La fórmula de Euler es \( e^{i\pi} + 1 = 0 \).
-!
+Este ejemplo muestra cómo podemos aproximar PI.!
