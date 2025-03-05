@@ -71,7 +71,7 @@ estimar_pi_montecarlo(n, k)
 ## Figura Resultante
 A continuación, una imagen que representa la distribución de empleados por departamento.
 
-![Descripción](https://github.com/judasRV/judasRV.github.io/blob/main/sources/img/monte_carlo_python_opencv.png)
+![Descripción](https://raw.githubusercontent.com/judasRV/judasRV.github.io/refs/heads/main/sources/img/monte_carlo_python_opencv.png)
 
 
 ## Conclusión
