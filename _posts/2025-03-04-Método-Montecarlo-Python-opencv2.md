@@ -5,7 +5,7 @@ categories: [python, algoritmos]
 tags: [Python, Algoritmos, Visualización]
 ---
 
-## Primeros pasos
+## Método Montecarlo en Python
 En esta entrada, mostraremos cómo realizar un Monte Carlo para aproximar y visualizar los resultados en un gráfico.
 
 ## Algoritmo
@@ -13,6 +13,8 @@ A continuación, presentamos una consulta SQL simple para contar la cantidad de 
 
 ## Visualización del Resultado
 Para representar los resultados gráficamente, podemos usar Python opencv. Aquí un ejemplo:
+
+### Código en python
 
 ```python
 import numpy as np
