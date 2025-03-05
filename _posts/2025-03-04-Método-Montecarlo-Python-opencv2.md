@@ -71,7 +71,7 @@ estimar_pi_montecarlo(n, k)
 ## Figura Resultante
 A continuación, una imagen que representa la distribución de empleados por departamento.
 
-![Resultado Gráfico](source/img/monte_carlo_python_opencv.PNG)
+![Resultado Gráfico](source/img/monte_carlo_python_opencv.png)
 
 ## Conclusión
 Este ejemplo muestra cómo podemos aproximar $ \pi $!
