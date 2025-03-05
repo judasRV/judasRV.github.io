@@ -74,4 +74,4 @@ A continuación, una imagen que representa la distribución de empleados por dep
 ![Resultado Gráfico](img/monte_carlo_python_opencv.png)
 
 ## Conclusión
-Este ejemplo muestra cómo podemos aproximar \ \pi \!
+Este ejemplo muestra cómo podemos aproximar \( \pi \)!
